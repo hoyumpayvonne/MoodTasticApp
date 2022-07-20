@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "279471754143",
+    "firebase_url": "https://moodtasticuser-default-rtdb.firebaseio.com",
+    "project_id": "moodtasticuser",
+    "storage_bucket": "moodtasticuser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279471754143:android:639bc36feb6ce0255acbaa",
+        "android_client_info": {
+          "package_name": "com.example.tasticmoodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279471754143-lb1vdf3htotaloum2lu702imbph56a9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tasticmoodapp",
+            "certificate_hash": "826709c96fbede76fe771820516ef7636a651397"
+          }
+        },
+        {
+          "client_id": "279471754143-io31n2k2jkvqht7vtk3polfqhqgt0m5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABd5QU6Jkp7xTB0SkrzstU4ekFb-Yuhgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279471754143-io31n2k2jkvqht7vtk3polfqhqgt0m5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

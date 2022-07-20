@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tasticmoodapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TasticMoodApp">
+        <activity
+            android:name=".Features"
+            android:exported="false" />
+        <activity
+            android:name=".Userlist2"
+            android:exported="false" />
+        <activity android:name=".listView" />
+        <activity android:name=".inside_zumba" />
+        <activity android:name=".inside_cycling" />
+        <activity android:name=".inside_yoga" />
+        <activity android:name=".inside_stretch" />
+        <activity android:name=".inside_walk" />
+        <activity android:name=".inside_coffee" />
+        <activity android:name=".inside_vegies" />
+        <activity android:name=".inside_drinks" />
+        <activity android:name=".inside_sugar" />
+        <activity android:name=".inside_fruit" />
+        <activity android:name=".inside_breath" />
+        <activity android:name=".habit3" />
+        <activity android:name=".inside_bubble" />
+        <activity android:name=".habit2" />
+        <activity android:name=".habit" />
+        <activity android:name=".greetings" />
+        <activity android:name=".note" />
+        <activity android:name=".click_mood" />
+        <activity android:name=".register" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

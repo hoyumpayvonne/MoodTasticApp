@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TasticMoodApp</string>
+    <string name="know_your_mood_and_activities">Know your mood and activities</string>
+    <string name="caption">What causing your emotion? You can write a mood diary and you can know your mood and activities</string>
+    <string name="title_activity_mood">Mood</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Holabels">Holabells so may kwento akizkis, gorabels ang lola nyey sa nyinistop para magbuyla meslu ng mga nyoging syempre kailangan ko mag breakfast diba!</string>
+    <string name="quotes">Appreciate how blessed you are, be thankful for every single day.</string>
+    <string name="health">Walking is simple, free and one of the easiest ways to get more active, lose weight and become healthier.</string>
+    <string name="popping">Popping bubble wrap can help you de-stress faster. This is because popping a row of bubbles gives you instant gratification.</string>
+    <string name="practice_breath">Practice diaphragmatic breathing for 5 to 10 minutes 3 to 4 times per day. When you begin you may feel tired, but over time the technique should become easier and should feel more natural.</string>
+    <string name="eating">Eating fruit everyday provides your body with the protective effects of these nutrients, which can reduce the risk of the heart disease and stroke.</string>
+    <string name="reducing">Reducing sugar intake lowers specifically the risk of developing overweight and obesity, and in turn in developing diabetes.</string>
+    <string name="eating_vegetables">Eating vegetables that are lower in calories instead of higher-calorie food may be useful in helping to lower calorie intake.Vegetables provide nutrients vital for health and maintenance of the body such as vitamins A and C.</string>
+    <string name="coffee_moment">Reducing coffee intake gives you a 5 important benefits which are reduced anxiety, better quality of sleep, improved absorption of nutrients,Whiter teeth, and lastly is lower blood pressure.</string>
+    <string name="stretch">Stretching for only a few minutes a day can be beneficial and allow you to keep your normal range of motion throughout your life.</string>
+</resources>
